@@ -97,6 +97,10 @@ Repository | Description
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
+## Local Tooling
+
+[Reddit Vault backup helpers](reddit-vault-tools/README.md) — dependency-free local scripts for inspecting a `.redditvault` file and, with your password, verifying/decrypting it offline. **Never add a real wallet backup, password, recovery phrase, or private key to this repository.**
+
 ## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.

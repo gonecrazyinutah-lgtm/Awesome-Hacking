@@ -1,0 +1,4 @@
+# Never stage Reddit Vault backups or plaintext recovery output.
+*.redditvault
+*.decrypted*
+recovered*.txt

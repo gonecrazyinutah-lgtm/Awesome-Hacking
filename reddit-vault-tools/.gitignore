@@ -1,0 +1,8 @@
+# Never commit a wallet backup, a demo vault, or anything decrypted.
+*.redditvault
+*.vault
+*.decrypted
+*.decrypted.*
+recovered*.txt
+demo-*.json
+__pycache__/
